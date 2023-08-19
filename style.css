@@ -1,0 +1,54 @@
+body {
+    margin: 0px;
+    background-image: url(IMAGES/messi.jpg);
+    background-size: 100%;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}a {
+    text-decoration: none;
+    color: gold;
+    font-size: xx-large; 
+}a:hover {
+    color: goldenrod;
+    background-color: black;
+}.navbar {
+    background: transparent;
+    top: 0%;
+    margin-left:10px;
+    margin-right: 700px;
+    margin-top:10px;
+    display: flex;
+    justify-content: space-between;
+
+}#lm {
+    text-align: center;
+    color:deepskyblue ;
+}.vid {
+    width:500px;
+}.arg {
+    color: deepskyblue;
+}.mls {
+    color: red;
+}.int {
+    color: pink;
+}.mia {
+    color: pink;
+}.and {
+    color: white;
+}.vid {
+    text-align: center;
+    color: rgb(255, 255, 255);
+}.foot {
+    text-decoration: none;
+    color: aqua;
+    font-size: large;
+}.foot:hover {
+    color: aquamarine;
+}.footer {
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+    display: grid;
+}.grid-container {
+    display: grid;
+}
