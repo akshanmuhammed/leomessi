@@ -48,8 +48,11 @@ body {
     font-size: larger;
     font-family: 'Courier New', Courier, monospace;
     background-color: black;
-    display: grid;
 }.grid-container {
     display: grid;
     grid-template-columns: auto auto auto;
+}.gridcontainer20{
+     display: grid;
+    grid-template-columns: auto auto auto;
+    
 }
